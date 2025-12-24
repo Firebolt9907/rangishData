@@ -1,1 +1,23 @@
-{"images":[{"fileName":"image_picker_398AA576-D491-4A8C-BB73-8161D9AD49B5-26886-00000431B1FF6864.jpg","jpgUrl":"https://raw.githubusercontent.com/Firebolt9907/rangishData/main/jpg/image_picker_398AA576-D491-4A8C-BB73-8161D9AD49B5-26886-00000431B1FF6864.jpg","webpUrl":"https://raw.githubusercontent.com/Firebolt9907/rangishData/main/webp/image_picker_398AA576-D491-4A8C-BB73-8161D9AD49B5-26886-00000431B1FF6864.webp","uploadedAt":"2025-08-17T20:56:33.204317","imageType":"photo","englishDescription":"english","hindiDescription":"Hindi"},{"fileName":"image_picker_380BDF36-A1B3-44E8-86C8-D53A72E04D7B-93725-00000300599EB587.jpg","jpgUrl":"https://raw.githubusercontent.com/Firebolt9907/rangishData/main/jpg/image_picker_380BDF36-A1B3-44E8-86C8-D53A72E04D7B-93725-00000300599EB587.jpg","webpUrl":"https://raw.githubusercontent.com/Firebolt9907/rangishData/main/webp/image_picker_380BDF36-A1B3-44E8-86C8-D53A72E04D7B-93725-00000300599EB587.webp","uploadedAt":"2025-08-16T14:46:51.575481","imageType":"photo","englishDescription":"Hero Image","hindiDescription":"[test Hindi desc]"},{}]}
+{
+  "images": [
+    {
+      "fileName": "image_picker_398AA576-D491-4A8C-BB73-8161D9AD49B5-26886-00000431B1FF6864.jpg",
+      "jpgUrl": "https://raw.githubusercontent.com/Firebolt9907/rangishData/main/jpg/image_picker_398AA576-D491-4A8C-BB73-8161D9AD49B5-26886-00000431B1FF6864.jpg",
+      "webpUrl": "https://raw.githubusercontent.com/Firebolt9907/rangishData/main/webp/image_picker_398AA576-D491-4A8C-BB73-8161D9AD49B5-26886-00000431B1FF6864.webp",
+      "uploadedAt": "2025-08-17T20:56:33.204317",
+      "imageType": "photo",
+      "englishDescription": "english",
+      "hindiDescription": "Hindi"
+    },
+    {
+      "fileName": "image_picker_380BDF36-A1B3-44E8-86C8-D53A72E04D7B-93725-00000300599EB587.jpg",
+      "jpgUrl": "https://raw.githubusercontent.com/Firebolt9907/rangishData/main/jpg/image_picker_380BDF36-A1B3-44E8-86C8-D53A72E04D7B-93725-00000300599EB587.jpg",
+      "webpUrl": "https://raw.githubusercontent.com/Firebolt9907/rangishData/main/webp/image_picker_380BDF36-A1B3-44E8-86C8-D53A72E04D7B-93725-00000300599EB587.webp",
+      "uploadedAt": "2025-08-16T14:46:51.575481",
+      "imageType": "photo",
+      "englishDescription": "Hero Image",
+      "hindiDescription": "[test Hindi desc]"
+    },
+    {}
+  ]
+}
